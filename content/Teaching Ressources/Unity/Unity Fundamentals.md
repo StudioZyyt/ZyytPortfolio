@@ -1,6 +1,6 @@
 ---
 title: Fundamentals
-draft: false
+draft: true
 tags:
   - example-tag
 ---
